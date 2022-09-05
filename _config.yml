@@ -20,7 +20,7 @@ baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 title      : Tech Access Nepal
 email      : techaccessnepal@gmail.com #this is also the email contact forms will go to
 description: "Working together to improve tech access in Nepal"
-author     : @techaccessnepal
+author     : techaccessnepal
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
